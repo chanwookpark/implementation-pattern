@@ -1,2 +1,3 @@
 # implementation-pattern
-Kent Beck의 "Implementation Patterns" 책을 읽고 난 후 책에서 기억하고 싶은 내용을 기록해두고, 내 생각을 함께 정리하기 위한 공간 
+Kent Beck의 "Implementation Patterns" 책을 읽고 난 후 책에서 기억하고 싶은 내용을 기록해두고, 내 생각을 함께 정리하기 위한 공간이다.
+왜 이런짓을 하냐면 나만의 개발 스타일을 정리해보고 싶기 때문이며, 개발할 때 내 머릿속의 생각과 내 손각락의 반응을 더욱 반복할 수 있게 구체화해보고 싶기 때문이다. (어렵다...)
